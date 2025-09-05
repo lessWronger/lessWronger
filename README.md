@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <h1 align="center"> Hi everyone!<img src="https://raw.githubusercontent.com/appinha/appinha/main/img/Hi.gif" width="30px"></h1>
 
@@ -10,6 +9,7 @@
 </div>
 
 ## 🧙‍♂️ About Me
+- My name is Serj
 - 🎓 Engineer → ML explorer  
 - 🌱 I’m currently urrently studying at **[SENATOROVAI](https://github.com/SENATOROVAI)**
 - 👯 I’m looking to collaborate on ML projects combining **tensors, engineering, and simulations**, research around **fluid-structure interaction + machine learning** 
