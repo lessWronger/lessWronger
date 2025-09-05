@@ -17,7 +17,7 @@
 - ⚡ Fun fact: Skyrim-inspired - RFAD/RFAB, passion for vectors, matrices, and tensors
 
 ## 🧪 Skills (Skill Tree)
-- **Core**: Python 🐍 | NumPy | Pandas | Scikit-learn | PyTorch  
+- **Core**: Python 🐍 | NumPy | Pandas | Scikit-learn 
 - **Math**: Linear Algebra | Calculus | Differential Equations  
 - **Engineering**: Oil & Gas pipelines | FEM | Fluid-Structure Interaction  
 
