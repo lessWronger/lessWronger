@@ -11,11 +11,9 @@
 
 ## 🧙‍♂️ About Me
 - 🎓 Engineer → ML explorer  
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🌱 I’m currently urrently studying at **[SENATOROVAI](https://github.com/SENATOROVAI)**
+- 👯 I’m looking to collaborate on ML projects combining **tensors, engineering, and simulations**, research around **fluid-structure interaction + machine learning** 
 - 📚 Working on dissertation: **flexible pipelines & fluid-structure interaction**  
-- 💬 Ask me about ...
 - ⚡ Fun fact: Skyrim-inspired - RFAD/RFAB, passion for vectors, matrices, and tensors
 
 ## 🧪 Skills (Skill Tree)
